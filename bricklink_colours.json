@@ -1,0 +1,3026 @@
+{
+  "1": {
+    "colourID": 1,
+    "colourName": "White",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "hsv": [
+      0,
+      0,
+      255
+    ],
+    "type": "solid"
+  },
+  "2": {
+    "colourID": 2,
+    "colourName": "Tan",
+    "hex": "#EED9A4",
+    "rgb": [
+      238,
+      217,
+      164
+    ],
+    "hsv": [
+      21,
+      79,
+      238
+    ],
+    "type": "solid"
+  },
+  "3": {
+    "colourID": 3,
+    "colourName": "Yellow",
+    "hex": "#FFE001",
+    "rgb": [
+      255,
+      224,
+      1
+    ],
+    "hsv": [
+      26,
+      254,
+      255
+    ],
+    "type": "solid"
+  },
+  "4": {
+    "colourID": 4,
+    "colourName": "Orange",
+    "hex": "#FF7E14",
+    "rgb": [
+      255,
+      126,
+      20
+    ],
+    "hsv": [
+      14,
+      235,
+      255
+    ],
+    "type": "solid"
+  },
+  "5": {
+    "colourID": 5,
+    "colourName": "Red",
+    "hex": "#B30006",
+    "rgb": [
+      179,
+      0,
+      6
+    ],
+    "hsv": [
+      179,
+      255,
+      179
+    ],
+    "type": "solid"
+  },
+  "6": {
+    "colourID": 6,
+    "colourName": "Green",
+    "hex": "#00923D",
+    "rgb": [
+      0,
+      146,
+      61
+    ],
+    "hsv": [
+      73,
+      255,
+      146
+    ],
+    "type": "solid"
+  },
+  "7": {
+    "colourID": 7,
+    "colourName": "Blue",
+    "hex": "#0057A6",
+    "rgb": [
+      0,
+      87,
+      166
+    ],
+    "hsv": [
+      104,
+      255,
+      166
+    ],
+    "type": "solid"
+  },
+  "8": {
+    "colourID": 8,
+    "colourName": "Brown",
+    "hex": "#6B3F22",
+    "rgb": [
+      107,
+      63,
+      34
+    ],
+    "hsv": [
+      12,
+      174,
+      107
+    ],
+    "type": "solid"
+  },
+  "9": {
+    "colourID": 9,
+    "colourName": "Light Gray",
+    "hex": "#9C9C9C",
+    "rgb": [
+      156,
+      156,
+      156
+    ],
+    "hsv": [
+      0,
+      0,
+      156
+    ],
+    "type": "solid"
+  },
+  "10": {
+    "colourID": 10,
+    "colourName": "Dark Gray",
+    "hex": "#6B5A5A",
+    "rgb": [
+      107,
+      90,
+      90
+    ],
+    "hsv": [
+      0,
+      41,
+      107
+    ],
+    "type": "solid"
+  },
+  "11": {
+    "colourID": 11,
+    "colourName": "Black",
+    "hex": "#212121",
+    "rgb": [
+      33,
+      33,
+      33
+    ],
+    "hsv": [
+      0,
+      0,
+      33
+    ],
+    "type": "solid"
+  },
+  "21": {
+    "colourID": 21,
+    "colourName": "Chrome Gold",
+    "hex": "#f1f2e1",
+    "rgb": [
+      241,
+      242,
+      225
+    ],
+    "hsv": [
+      32,
+      18,
+      242
+    ],
+    "type": "chrome"
+  },
+  "22": {
+    "colourID": 22,
+    "colourName": "Chrome Silver",
+    "hex": "#DCDCDC",
+    "rgb": [
+      220,
+      220,
+      220
+    ],
+    "hsv": [
+      0,
+      0,
+      220
+    ],
+    "type": "chrome"
+  },
+  "23": {
+    "colourID": 23,
+    "colourName": "Pink",
+    "hex": "#F5CDD6",
+    "rgb": [
+      245,
+      205,
+      214
+    ],
+    "hsv": [
+      173,
+      42,
+      245
+    ],
+    "type": "solid"
+  },
+  "24": {
+    "colourID": 24,
+    "colourName": "Purple",
+    "hex": "#7A238D",
+    "rgb": [
+      122,
+      35,
+      141
+    ],
+    "hsv": [
+      145,
+      192,
+      141
+    ],
+    "type": "solid"
+  },
+  "25": {
+    "colourID": 25,
+    "colourName": "Salmon",
+    "hex": "#FF7D5D",
+    "rgb": [
+      255,
+      125,
+      93
+    ],
+    "hsv": [
+      6,
+      162,
+      255
+    ],
+    "type": "solid"
+  },
+  "26": {
+    "colourID": 26,
+    "colourName": "Light Salmon",
+    "hex": "#FCC7B7",
+    "rgb": [
+      252,
+      199,
+      183
+    ],
+    "hsv": [
+      7,
+      70,
+      252
+    ],
+    "type": "solid"
+  },
+  "27": {
+    "colourID": 27,
+    "colourName": "Rust",
+    "hex": "#B24817",
+    "rgb": [
+      178,
+      72,
+      23
+    ],
+    "hsv": [
+      9,
+      222,
+      178
+    ],
+    "type": "solid"
+  },
+  "28": {
+    "colourID": 28,
+    "colourName": "Nougat",
+    "hex": "#FFAF7D",
+    "rgb": [
+      255,
+      175,
+      125
+    ],
+    "hsv": [
+      12,
+      130,
+      255
+    ],
+    "type": "solid"
+  },
+  "29": {
+    "colourID": 29,
+    "colourName": "Earth Orange",
+    "hex": "#E6881D",
+    "rgb": [
+      230,
+      136,
+      29
+    ],
+    "hsv": [
+      16,
+      223,
+      230
+    ],
+    "type": "solid"
+  },
+  "31": {
+    "colourID": 31,
+    "colourName": "Medium Orange",
+    "hex": "#FFA531",
+    "rgb": [
+      255,
+      165,
+      49
+    ],
+    "hsv": [
+      17,
+      206,
+      255
+    ],
+    "type": "solid"
+  },
+  "32": {
+    "colourID": 32,
+    "colourName": "Light Orange",
+    "hex": "#FFBC36",
+    "rgb": [
+      255,
+      188,
+      54
+    ],
+    "hsv": [
+      20,
+      201,
+      255
+    ],
+    "type": "solid"
+  },
+  "33": {
+    "colourID": 33,
+    "colourName": "Light Yellow",
+    "hex": "#FEE89F",
+    "rgb": [
+      254,
+      232,
+      159
+    ],
+    "hsv": [
+      23,
+      95,
+      254
+    ],
+    "type": "solid"
+  },
+  "34": {
+    "colourID": 34,
+    "colourName": "Lime",
+    "hex": "#C4E000",
+    "rgb": [
+      196,
+      224,
+      0
+    ],
+    "hsv": [
+      34,
+      255,
+      224
+    ],
+    "type": "solid"
+  },
+  "35": {
+    "colourID": 35,
+    "colourName": "Light Lime",
+    "hex": "#ECEEBD",
+    "rgb": [
+      236,
+      238,
+      189
+    ],
+    "hsv": [
+      31,
+      53,
+      238
+    ],
+    "type": "solid"
+  },
+  "36": {
+    "colourID": 36,
+    "colourName": "Bright Green",
+    "hex": "#10CB31",
+    "rgb": [
+      16,
+      203,
+      49
+    ],
+    "hsv": [
+      65,
+      235,
+      203
+    ],
+    "type": "solid"
+  },
+  "37": {
+    "colourID": 37,
+    "colourName": "Medium Green",
+    "hex": "#91DF8C",
+    "rgb": [
+      145,
+      223,
+      140
+    ],
+    "hsv": [
+      58,
+      95,
+      223
+    ],
+    "type": "solid"
+  },
+  "38": {
+    "colourID": 38,
+    "colourName": "Light Green",
+    "hex": "#D7EED1",
+    "rgb": [
+      215,
+      238,
+      209
+    ],
+    "hsv": [
+      54,
+      31,
+      238
+    ],
+    "type": "solid"
+  },
+  "39": {
+    "colourID": 39,
+    "colourName": "Dark Turquoise",
+    "hex": "#00A29F",
+    "rgb": [
+      0,
+      162,
+      159
+    ],
+    "hsv": [
+      90,
+      255,
+      162
+    ],
+    "type": "solid"
+  },
+  "40": {
+    "colourID": 40,
+    "colourName": "Light Turquoise",
+    "hex": "#00C5BC",
+    "rgb": [
+      0,
+      197,
+      188
+    ],
+    "hsv": [
+      89,
+      255,
+      197
+    ],
+    "type": "solid"
+  },
+  "41": {
+    "colourID": 41,
+    "colourName": "Aqua",
+    "hex": "#BCE5DC",
+    "rgb": [
+      188,
+      229,
+      220
+    ],
+    "hsv": [
+      83,
+      46,
+      229
+    ],
+    "type": "solid"
+  },
+  "42": {
+    "colourID": 42,
+    "colourName": "Medium Blue",
+    "hex": "#82ADD8",
+    "rgb": [
+      130,
+      173,
+      216
+    ],
+    "hsv": [
+      105,
+      102,
+      216
+    ],
+    "type": "solid"
+  },
+  "43": {
+    "colourID": 43,
+    "colourName": "Violet",
+    "hex": "#3448A4",
+    "rgb": [
+      52,
+      72,
+      164
+    ],
+    "hsv": [
+      115,
+      174,
+      164
+    ],
+    "type": "solid"
+  },
+  "44": {
+    "colourID": 44,
+    "colourName": "Light Violet",
+    "hex": "#C9CAE2",
+    "rgb": [
+      201,
+      202,
+      226
+    ],
+    "hsv": [
+      119,
+      28,
+      226
+    ],
+    "type": "solid"
+  },
+  "46": {
+    "colourID": 46,
+    "colourName": "Glow In Dark Opaque",
+    "hex": "#d4d5c9",
+    "rgb": [
+      212,
+      213,
+      201
+    ],
+    "hsv": [
+      33,
+      14,
+      213
+    ],
+    "type": "milky"
+  },
+  "47": {
+    "colourID": 47,
+    "colourName": "Dark Pink",
+    "hex": "#EF5BB3",
+    "rgb": [
+      239,
+      91,
+      179
+    ],
+    "hsv": [
+      162,
+      158,
+      239
+    ],
+    "type": "solid"
+  },
+  "48": {
+    "colourID": 48,
+    "colourName": "Sand Green",
+    "hex": "#A2BFA3",
+    "rgb": [
+      162,
+      191,
+      163
+    ],
+    "hsv": [
+      61,
+      39,
+      191
+    ],
+    "type": "solid"
+  },
+  "49": {
+    "colourID": 49,
+    "colourName": "Very Light Gray",
+    "hex": "#E8E8E8",
+    "rgb": [
+      232,
+      232,
+      232
+    ],
+    "hsv": [
+      0,
+      0,
+      232
+    ],
+    "type": "solid"
+  },
+  "52": {
+    "colourID": 52,
+    "colourName": "Chrome Blue",
+    "hex": "#5C66A4",
+    "rgb": [
+      92,
+      102,
+      164
+    ],
+    "hsv": [
+      116,
+      112,
+      164
+    ],
+    "type": "chrome"
+  },
+  "54": {
+    "colourID": 54,
+    "colourName": "Sand Purple",
+    "hex": "#B57DA5",
+    "rgb": [
+      181,
+      125,
+      165
+    ],
+    "hsv": [
+      159,
+      79,
+      181
+    ],
+    "type": "solid"
+  },
+  "55": {
+    "colourID": 55,
+    "colourName": "Sand Blue",
+    "hex": "#8899AB",
+    "rgb": [
+      136,
+      153,
+      171
+    ],
+    "hsv": [
+      105,
+      52,
+      171
+    ],
+    "type": "solid"
+  },
+  "56": {
+    "colourID": 56,
+    "colourName": "Rose Pink",
+    "hex": "#F2D3D1",
+    "rgb": [
+      242,
+      211,
+      209
+    ],
+    "hsv": [
+      2,
+      35,
+      242
+    ],
+    "type": "solid"
+  },
+  "57": {
+    "colourID": 57,
+    "colourName": "Chrome Antique Brass",
+    "hex": "#645a4c",
+    "rgb": [
+      100,
+      90,
+      76
+    ],
+    "hsv": [
+      18,
+      61,
+      100
+    ],
+    "type": "chrome"
+  },
+  "58": {
+    "colourID": 58,
+    "colourName": "Sand Red",
+    "hex": "#C58D80",
+    "rgb": [
+      197,
+      141,
+      128
+    ],
+    "hsv": [
+      6,
+      89,
+      197
+    ],
+    "type": "solid"
+  },
+  "59": {
+    "colourID": 59,
+    "colourName": "Dark Red",
+    "hex": "#6A0E15",
+    "rgb": [
+      106,
+      14,
+      21
+    ],
+    "hsv": [
+      178,
+      221,
+      106
+    ],
+    "type": "solid"
+  },
+  "60": {
+    "colourID": 60,
+    "colourName": "Milky White",
+    "hex": "#d4d3dd",
+    "rgb": [
+      212,
+      211,
+      221
+    ],
+    "hsv": [
+      123,
+      12,
+      221
+    ],
+    "type": "milky"
+  },
+  "61": {
+    "colourID": 61,
+    "colourName": "Pearl Light Gold",
+    "hex": "#E7AE5A",
+    "rgb": [
+      231,
+      174,
+      90
+    ],
+    "hsv": [
+      18,
+      156,
+      231
+    ],
+    "type": "pearl"
+  },
+  "62": {
+    "colourID": 62,
+    "colourName": "Light Blue",
+    "hex": "#C8D9E1",
+    "rgb": [
+      200,
+      217,
+      225
+    ],
+    "hsv": [
+      100,
+      28,
+      225
+    ],
+    "type": "solid"
+  },
+  "63": {
+    "colourID": 63,
+    "colourName": "Dark Blue",
+    "hex": "#243757",
+    "rgb": [
+      36,
+      55,
+      87
+    ],
+    "hsv": [
+      109,
+      149,
+      87
+    ],
+    "type": "solid"
+  },
+  "64": {
+    "colourID": 64,
+    "colourName": "Chrome Green",
+    "hex": "#3CB371",
+    "rgb": [
+      60,
+      179,
+      113
+    ],
+    "hsv": [
+      73,
+      170,
+      179
+    ],
+    "type": "chrome"
+  },
+  "65": {
+    "colourID": 65,
+    "colourName": "Metallic Gold",
+    "hex": "#B8860B",
+    "rgb": [
+      184,
+      134,
+      11
+    ],
+    "hsv": [
+      21,
+      240,
+      184
+    ],
+    "type": "metallic"
+  },
+  "66": {
+    "colourID": 66,
+    "colourName": "Pearl Light Gray",
+    "hex": "#ACB7C0",
+    "rgb": [
+      172,
+      183,
+      192
+    ],
+    "hsv": [
+      104,
+      27,
+      192
+    ],
+    "type": "pearl"
+  },
+  "67": {
+    "colourID": 67,
+    "colourName": "Metallic Silver",
+    "hex": "#C0C0C0",
+    "rgb": [
+      192,
+      192,
+      192
+    ],
+    "hsv": [
+      0,
+      0,
+      192
+    ],
+    "type": "metallic"
+  },
+  "68": {
+    "colourID": 68,
+    "colourName": "Dark Orange",
+    "hex": "#B35408",
+    "rgb": [
+      179,
+      84,
+      8
+    ],
+    "hsv": [
+      13,
+      244,
+      179
+    ],
+    "type": "solid"
+  },
+  "69": {
+    "colourID": 69,
+    "colourName": "Dark Tan",
+    "hex": "#B89869",
+    "rgb": [
+      184,
+      152,
+      105
+    ],
+    "hsv": [
+      18,
+      109,
+      184
+    ],
+    "type": "solid"
+  },
+  "70": {
+    "colourID": 70,
+    "colourName": "Metallic Green",
+    "hex": "#bdb573",
+    "rgb": [
+      189,
+      181,
+      115
+    ],
+    "hsv": [
+      27,
+      100,
+      189
+    ],
+    "type": "metallic"
+  },
+  "71": {
+    "colourID": 71,
+    "colourName": "Magenta",
+    "hex": "#B72276",
+    "rgb": [
+      183,
+      34,
+      118
+    ],
+    "hsv": [
+      163,
+      208,
+      183
+    ],
+    "type": "solid"
+  },
+  "72": {
+    "colourID": 72,
+    "colourName": "Maersk Blue",
+    "hex": "#7DC1D8",
+    "rgb": [
+      125,
+      193,
+      216
+    ],
+    "hsv": [
+      98,
+      107,
+      216
+    ],
+    "type": "solid"
+  },
+  "73": {
+    "colourID": 73,
+    "colourName": "Medium Violet",
+    "hex": "#9391E4",
+    "rgb": [
+      147,
+      145,
+      228
+    ],
+    "hsv": [
+      121,
+      93,
+      228
+    ],
+    "type": "solid"
+  },
+  "76": {
+    "colourID": 76,
+    "colourName": "Medium Lime",
+    "hex": "#DFE000",
+    "rgb": [
+      223,
+      224,
+      0
+    ],
+    "hsv": [
+      30,
+      255,
+      224
+    ],
+    "type": "solid"
+  },
+  "77": {
+    "colourID": 77,
+    "colourName": "Pearl Dark Gray",
+    "hex": "#666660",
+    "rgb": [
+      102,
+      102,
+      96
+    ],
+    "hsv": [
+      30,
+      15,
+      102
+    ],
+    "type": "pearl"
+  },
+  "78": {
+    "colourID": 78,
+    "colourName": "Pearl Sand Blue",
+    "hex": "#868FAA",
+    "rgb": [
+      134,
+      143,
+      170
+    ],
+    "hsv": [
+      112,
+      54,
+      170
+    ],
+    "type": "pearl"
+  },
+  "80": {
+    "colourID": 80,
+    "colourName": "Dark Green",
+    "hex": "#2E5543",
+    "rgb": [
+      46,
+      85,
+      67
+    ],
+    "hsv": [
+      76,
+      117,
+      85
+    ],
+    "type": "solid"
+  },
+  "81": {
+    "colourID": 81,
+    "colourName": "Flat Dark Gold",
+    "hex": "#AD7118",
+    "rgb": [
+      173,
+      113,
+      24
+    ],
+    "hsv": [
+      18,
+      220,
+      173
+    ],
+    "type": "pearl"
+  },
+  "82": {
+    "colourID": 82,
+    "colourName": "Chrome Pink",
+    "hex": "#aa4d8e",
+    "rgb": [
+      170,
+      77,
+      142
+    ],
+    "hsv": [
+      159,
+      140,
+      170
+    ],
+    "type": "chrome"
+  },
+  "83": {
+    "colourID": 83,
+    "colourName": "Pearl White",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "hsv": [
+      0,
+      0,
+      255
+    ],
+    "type": "pearl"
+  },
+  "84": {
+    "colourID": 84,
+    "colourName": "Copper",
+    "hex": "#AC6D52",
+    "rgb": [
+      172,
+      109,
+      82
+    ],
+    "hsv": [
+      9,
+      133,
+      172
+    ],
+    "type": "pearl"
+  },
+  "85": {
+    "colourID": 85,
+    "colourName": "Dark Bluish Gray",
+    "hex": "#595D60",
+    "rgb": [
+      89,
+      93,
+      96
+    ],
+    "hsv": [
+      103,
+      19,
+      96
+    ],
+    "type": "solid"
+  },
+  "86": {
+    "colourID": 86,
+    "colourName": "Light Bluish Gray",
+    "hex": "#AFB5C7",
+    "rgb": [
+      175,
+      181,
+      199
+    ],
+    "hsv": [
+      113,
+      31,
+      199
+    ],
+    "type": "solid"
+  },
+  "87": {
+    "colourID": 87,
+    "colourName": "Sky Blue",
+    "hex": "#8AD4E1",
+    "rgb": [
+      138,
+      212,
+      225
+    ],
+    "hsv": [
+      94,
+      99,
+      225
+    ],
+    "type": "solid"
+  },
+  "88": {
+    "colourID": 88,
+    "colourName": "Reddish Brown",
+    "hex": "#82422A",
+    "rgb": [
+      130,
+      66,
+      42
+    ],
+    "hsv": [
+      8,
+      173,
+      130
+    ],
+    "type": "solid"
+  },
+  "89": {
+    "colourID": 89,
+    "colourName": "Dark Purple",
+    "hex": "#5F2683",
+    "rgb": [
+      95,
+      38,
+      131
+    ],
+    "hsv": [
+      138,
+      181,
+      131
+    ],
+    "type": "solid"
+  },
+  "90": {
+    "colourID": 90,
+    "colourName": "Light Nougat",
+    "hex": "#FECCB0",
+    "rgb": [
+      254,
+      204,
+      176
+    ],
+    "hsv": [
+      11,
+      78,
+      254
+    ],
+    "type": "solid"
+  },
+  "91": {
+    "colourID": 91,
+    "colourName": "Light Brown",
+    "hex": "#99663E",
+    "rgb": [
+      153,
+      102,
+      62
+    ],
+    "hsv": [
+      13,
+      152,
+      153
+    ],
+    "type": "solid"
+  },
+  "93": {
+    "colourID": 93,
+    "colourName": "Light Purple",
+    "hex": "#AF3195",
+    "rgb": [
+      175,
+      49,
+      149
+    ],
+    "hsv": [
+      156,
+      184,
+      175
+    ],
+    "type": "solid"
+  },
+  "94": {
+    "colourID": 94,
+    "colourName": "Medium Dark Pink",
+    "hex": "#F785B1",
+    "rgb": [
+      247,
+      133,
+      177
+    ],
+    "hsv": [
+      168,
+      118,
+      247
+    ],
+    "type": "solid"
+  },
+  "95": {
+    "colourID": 95,
+    "colourName": "Flat Silver",
+    "hex": "#8D949C",
+    "rgb": [
+      141,
+      148,
+      156
+    ],
+    "hsv": [
+      106,
+      25,
+      156
+    ],
+    "type": "pearl"
+  },
+  "96": {
+    "colourID": 96,
+    "colourName": "Very Light Orange",
+    "hex": "#FFDCA4",
+    "rgb": [
+      255,
+      220,
+      164
+    ],
+    "hsv": [
+      18,
+      91,
+      255
+    ],
+    "type": "solid"
+  },
+  "97": {
+    "colourID": 97,
+    "colourName": "Blue-Violet",
+    "hex": "#506CEF",
+    "rgb": [
+      80,
+      108,
+      239
+    ],
+    "hsv": [
+      115,
+      170,
+      239
+    ],
+    "type": "solid"
+  },
+  "99": {
+    "colourID": 99,
+    "colourName": "Very Light Bluish Gray",
+    "hex": "#E4E8E8",
+    "rgb": [
+      228,
+      232,
+      232
+    ],
+    "hsv": [
+      90,
+      4,
+      232
+    ],
+    "type": "solid"
+  },
+  "100": {
+    "colourID": 100,
+    "colourName": "Glitter Trans-Dark Pink",
+    "hex": "#CE1d9b",
+    "rgb": [
+      206,
+      29,
+      155
+    ],
+    "hsv": [
+      159,
+      219,
+      206
+    ],
+    "type": "glitter"
+  },
+  "101": {
+    "colourID": 101,
+    "colourName": "Glitter Trans-Clear",
+    "hex": "#b2adaa",
+    "rgb": [
+      178,
+      173,
+      170
+    ],
+    "hsv": [
+      11,
+      11,
+      178
+    ],
+    "type": "glitter"
+  },
+  "102": {
+    "colourID": 102,
+    "colourName": "Glitter Trans-Purple",
+    "hex": "#3A2B82",
+    "rgb": [
+      58,
+      43,
+      130
+    ],
+    "hsv": [
+      125,
+      171,
+      130
+    ],
+    "type": "glitter"
+  },
+  "103": {
+    "colourID": 103,
+    "colourName": "Bright Light Yellow",
+    "hex": "#FFF08C",
+    "rgb": [
+      255,
+      240,
+      140
+    ],
+    "hsv": [
+      26,
+      115,
+      255
+    ],
+    "type": "solid"
+  },
+  "104": {
+    "colourID": 104,
+    "colourName": "Bright Pink",
+    "hex": "#F7BCDA",
+    "rgb": [
+      247,
+      188,
+      218
+    ],
+    "hsv": [
+      165,
+      61,
+      247
+    ],
+    "type": "solid"
+  },
+  "105": {
+    "colourID": 105,
+    "colourName": "Bright Light Blue",
+    "hex": "#BCD1ED",
+    "rgb": [
+      188,
+      209,
+      237
+    ],
+    "hsv": [
+      107,
+      53,
+      237
+    ],
+    "type": "solid"
+  },
+  "106": {
+    "colourID": 106,
+    "colourName": "Fabuland Brown",
+    "hex": "#B3694E",
+    "rgb": [
+      179,
+      105,
+      78
+    ],
+    "hsv": [
+      8,
+      144,
+      179
+    ],
+    "type": "solid"
+  },
+  "109": {
+    "colourID": 109,
+    "colourName": "Dark Blue-Violet",
+    "hex": "#2032B0",
+    "rgb": [
+      32,
+      50,
+      176
+    ],
+    "hsv": [
+      116,
+      209,
+      176
+    ],
+    "type": "solid"
+  },
+  "110": {
+    "colourID": 110,
+    "colourName": "Bright Light Orange",
+    "hex": "#FFC700",
+    "rgb": [
+      255,
+      199,
+      0
+    ],
+    "hsv": [
+      23,
+      255,
+      255
+    ],
+    "type": "solid"
+  },
+  "111": {
+    "colourID": 111,
+    "colourName": "Speckle Black-Silver",
+    "hex": "#7C7E7C",
+    "rgb": [
+      124,
+      126,
+      124
+    ],
+    "hsv": [
+      60,
+      4,
+      126
+    ],
+    "type": "speckle"
+  },
+  "115": {
+    "colourID": 115,
+    "colourName": "Pearl Gold",
+    "hex": "#E79E1D",
+    "rgb": [
+      231,
+      158,
+      29
+    ],
+    "hsv": [
+      19,
+      223,
+      231
+    ],
+    "type": "pearl"
+  },
+  "116": {
+    "colourID": 116,
+    "colourName": "Speckle Black-Copper",
+    "hex": "#5F4E47",
+    "rgb": [
+      95,
+      78,
+      71
+    ],
+    "hsv": [
+      9,
+      64,
+      95
+    ],
+    "type": "speckle"
+  },
+  "117": {
+    "colourID": 117,
+    "colourName": "Speckle DBGray-Silver",
+    "hex": "#4A6363",
+    "rgb": [
+      74,
+      99,
+      99
+    ],
+    "hsv": [
+      90,
+      64,
+      99
+    ],
+    "type": "speckle"
+  },
+  "118": {
+    "colourID": 118,
+    "colourName": "Glow In Dark Trans",
+    "hex": "#bdc6ad",
+    "rgb": [
+      189,
+      198,
+      173
+    ],
+    "hsv": [
+      41,
+      32,
+      198
+    ],
+    "type": "milky"
+  },
+  "119": {
+    "colourID": 119,
+    "colourName": "Pearl Very Light Gray",
+    "hex": "#D4D2CD",
+    "rgb": [
+      212,
+      210,
+      205
+    ],
+    "hsv": [
+      21,
+      8,
+      212
+    ],
+    "type": "pearl"
+  },
+  "120": {
+    "colourID": 120,
+    "colourName": "Dark Brown",
+    "hex": "#50372F",
+    "rgb": [
+      80,
+      55,
+      47
+    ],
+    "hsv": [
+      7,
+      105,
+      80
+    ],
+    "type": "solid"
+  },
+  "122": {
+    "colourID": 122,
+    "colourName": "Chrome Black",
+    "hex": "#544E4F",
+    "rgb": [
+      84,
+      78,
+      79
+    ],
+    "hsv": [
+      175,
+      18,
+      84
+    ],
+    "type": "chrome"
+  },
+  "123": {
+    "colourID": 123,
+    "colourName": "Mx White",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "hsv": [
+      0,
+      0,
+      255
+    ],
+    "type": "modulex"
+  },
+  "124": {
+    "colourID": 124,
+    "colourName": "Mx Light Bluish Gray",
+    "hex": "#AfB5C7",
+    "rgb": [
+      175,
+      181,
+      199
+    ],
+    "hsv": [
+      113,
+      31,
+      199
+    ],
+    "type": "modulex"
+  },
+  "125": {
+    "colourID": 125,
+    "colourName": "Mx Light Gray",
+    "hex": "#9C9C9C",
+    "rgb": [
+      156,
+      156,
+      156
+    ],
+    "hsv": [
+      0,
+      0,
+      156
+    ],
+    "type": "modulex"
+  },
+  "126": {
+    "colourID": 126,
+    "colourName": "Mx Charcoal Gray",
+    "hex": "#595D60",
+    "rgb": [
+      89,
+      93,
+      96
+    ],
+    "hsv": [
+      103,
+      19,
+      96
+    ],
+    "type": "modulex"
+  },
+  "127": {
+    "colourID": 127,
+    "colourName": "Mx Tile Gray",
+    "hex": "#6B5A5A",
+    "rgb": [
+      107,
+      90,
+      90
+    ],
+    "hsv": [
+      0,
+      41,
+      107
+    ],
+    "type": "modulex"
+  },
+  "128": {
+    "colourID": 128,
+    "colourName": "Mx Black",
+    "hex": "#000000",
+    "rgb": [
+      0,
+      0,
+      0
+    ],
+    "hsv": [
+      0,
+      0,
+      0
+    ],
+    "type": "modulex"
+  },
+  "129": {
+    "colourID": 129,
+    "colourName": "Mx Red",
+    "hex": "#B52C20",
+    "rgb": [
+      181,
+      44,
+      32
+    ],
+    "hsv": [
+      2,
+      210,
+      181
+    ],
+    "type": "modulex"
+  },
+  "130": {
+    "colourID": 130,
+    "colourName": "Mx Pink Red",
+    "hex": "#F45C40",
+    "rgb": [
+      244,
+      92,
+      64
+    ],
+    "hsv": [
+      5,
+      188,
+      244
+    ],
+    "type": "modulex"
+  },
+  "131": {
+    "colourID": 131,
+    "colourName": "Mx Tile Brown",
+    "hex": "#330000",
+    "rgb": [
+      51,
+      0,
+      0
+    ],
+    "hsv": [
+      0,
+      255,
+      51
+    ],
+    "type": "modulex"
+  },
+  "132": {
+    "colourID": 132,
+    "colourName": "Mx Brown",
+    "hex": "#907450",
+    "rgb": [
+      144,
+      116,
+      80
+    ],
+    "hsv": [
+      17,
+      113,
+      144
+    ],
+    "type": "modulex"
+  },
+  "133": {
+    "colourID": 133,
+    "colourName": "Mx Buff",
+    "hex": "#DEC69C",
+    "rgb": [
+      222,
+      198,
+      156
+    ],
+    "hsv": [
+      19,
+      76,
+      222
+    ],
+    "type": "modulex"
+  },
+  "134": {
+    "colourID": 134,
+    "colourName": "Mx Terracotta",
+    "hex": "#5C5030",
+    "rgb": [
+      92,
+      80,
+      48
+    ],
+    "hsv": [
+      22,
+      122,
+      92
+    ],
+    "type": "modulex"
+  },
+  "135": {
+    "colourID": 135,
+    "colourName": "Mx Orange",
+    "hex": "#F47B30",
+    "rgb": [
+      244,
+      123,
+      48
+    ],
+    "hsv": [
+      11,
+      205,
+      244
+    ],
+    "type": "modulex"
+  },
+  "136": {
+    "colourID": 136,
+    "colourName": "Mx Light Orange",
+    "hex": "#F7AD63",
+    "rgb": [
+      247,
+      173,
+      99
+    ],
+    "hsv": [
+      15,
+      153,
+      247
+    ],
+    "type": "modulex"
+  },
+  "137": {
+    "colourID": 137,
+    "colourName": "Mx Light Yellow",
+    "hex": "#FFE371",
+    "rgb": [
+      255,
+      227,
+      113
+    ],
+    "hsv": [
+      24,
+      142,
+      255
+    ],
+    "type": "modulex"
+  },
+  "138": {
+    "colourID": 138,
+    "colourName": "Mx Ochre Yellow",
+    "hex": "#FED557",
+    "rgb": [
+      254,
+      213,
+      87
+    ],
+    "hsv": [
+      23,
+      168,
+      254
+    ],
+    "type": "modulex"
+  },
+  "139": {
+    "colourID": 139,
+    "colourName": "Mx Lemon",
+    "hex": "#BDC618",
+    "rgb": [
+      189,
+      198,
+      24
+    ],
+    "hsv": [
+      32,
+      224,
+      198
+    ],
+    "type": "modulex"
+  },
+  "140": {
+    "colourID": 140,
+    "colourName": "Mx Olive Green",
+    "hex": "#7C9051",
+    "rgb": [
+      124,
+      144,
+      81
+    ],
+    "hsv": [
+      40,
+      112,
+      144
+    ],
+    "type": "modulex"
+  },
+  "141": {
+    "colourID": 141,
+    "colourName": "Mx Pastel Green",
+    "hex": "#7DB538",
+    "rgb": [
+      125,
+      181,
+      56
+    ],
+    "hsv": [
+      43,
+      176,
+      181
+    ],
+    "type": "modulex"
+  },
+  "142": {
+    "colourID": 142,
+    "colourName": "Mx Aqua Green",
+    "hex": "#27867E",
+    "rgb": [
+      39,
+      134,
+      126
+    ],
+    "hsv": [
+      87,
+      181,
+      134
+    ],
+    "type": "modulex"
+  },
+  "143": {
+    "colourID": 143,
+    "colourName": "Mx Tile Blue",
+    "hex": "#0057A6",
+    "rgb": [
+      0,
+      87,
+      166
+    ],
+    "hsv": [
+      104,
+      255,
+      166
+    ],
+    "type": "modulex"
+  },
+  "144": {
+    "colourID": 144,
+    "colourName": "Mx Medium Blue",
+    "hex": "#61AFFF",
+    "rgb": [
+      97,
+      175,
+      255
+    ],
+    "hsv": [
+      105,
+      158,
+      255
+    ],
+    "type": "modulex"
+  },
+  "145": {
+    "colourID": 145,
+    "colourName": "Mx Pastel Blue",
+    "hex": "#68AECE",
+    "rgb": [
+      104,
+      174,
+      206
+    ],
+    "hsv": [
+      99,
+      126,
+      206
+    ],
+    "type": "modulex"
+  },
+  "146": {
+    "colourID": 146,
+    "colourName": "Mx Teal Blue",
+    "hex": "#467083",
+    "rgb": [
+      70,
+      112,
+      131
+    ],
+    "hsv": [
+      99,
+      119,
+      131
+    ],
+    "type": "modulex"
+  },
+  "147": {
+    "colourID": 147,
+    "colourName": "Mx Violet",
+    "hex": "#BD7D85",
+    "rgb": [
+      189,
+      125,
+      133
+    ],
+    "hsv": [
+      176,
+      86,
+      189
+    ],
+    "type": "modulex"
+  },
+  "148": {
+    "colourID": 148,
+    "colourName": "Mx Pink",
+    "hex": "#F785B1",
+    "rgb": [
+      247,
+      133,
+      177
+    ],
+    "hsv": [
+      168,
+      118,
+      247
+    ],
+    "type": "modulex"
+  },
+  "149": {
+    "colourID": 149,
+    "colourName": "Mx Clear",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "hsv": [
+      0,
+      0,
+      255
+    ],
+    "type": "modulex"
+  },
+  "150": {
+    "colourID": 150,
+    "colourName": "Medium Nougat",
+    "hex": "#E3A05B",
+    "rgb": [
+      227,
+      160,
+      91
+    ],
+    "hsv": [
+      15,
+      153,
+      227
+    ],
+    "type": "solid"
+  },
+  "151": {
+    "colourID": 151,
+    "colourName": "Speckle Black-Gold",
+    "hex": "#AB9421",
+    "rgb": [
+      171,
+      148,
+      33
+    ],
+    "hsv": [
+      25,
+      206,
+      171
+    ],
+    "type": "speckle"
+  },
+  "152": {
+    "colourID": 152,
+    "colourName": "Light Aqua",
+    "hex": "#CFEFEA",
+    "rgb": [
+      207,
+      239,
+      234
+    ],
+    "hsv": [
+      85,
+      34,
+      239
+    ],
+    "type": "solid"
+  },
+  "153": {
+    "colourID": 153,
+    "colourName": "Dark Azure",
+    "hex": "#009FE0",
+    "rgb": [
+      0,
+      159,
+      224
+    ],
+    "hsv": [
+      99,
+      255,
+      224
+    ],
+    "type": "solid"
+  },
+  "154": {
+    "colourID": 154,
+    "colourName": "Lavender",
+    "hex": "#D3BDE3",
+    "rgb": [
+      211,
+      189,
+      227
+    ],
+    "hsv": [
+      137,
+      43,
+      227
+    ],
+    "type": "solid"
+  },
+  "155": {
+    "colourID": 155,
+    "colourName": "Olive Green",
+    "hex": "#ABA953",
+    "rgb": [
+      171,
+      169,
+      83
+    ],
+    "hsv": [
+      29,
+      131,
+      171
+    ],
+    "type": "solid"
+  },
+  "156": {
+    "colourID": 156,
+    "colourName": "Medium Azure",
+    "hex": "#6ACEE0",
+    "rgb": [
+      106,
+      206,
+      224
+    ],
+    "hsv": [
+      95,
+      134,
+      224
+    ],
+    "type": "solid"
+  },
+  "157": {
+    "colourID": 157,
+    "colourName": "Medium Lavender",
+    "hex": "#C689D9",
+    "rgb": [
+      198,
+      137,
+      217
+    ],
+    "hsv": [
+      143,
+      94,
+      217
+    ],
+    "type": "solid"
+  },
+  "158": {
+    "colourID": 158,
+    "colourName": "Yellowish Green",
+    "hex": "#E7F2A7",
+    "rgb": [
+      231,
+      242,
+      167
+    ],
+    "hsv": [
+      34,
+      79,
+      242
+    ],
+    "type": "solid"
+  },
+  "159": {
+    "colourID": 159,
+    "colourName": "Glow In Dark White",
+    "hex": "#d9d9d9",
+    "rgb": [
+      217,
+      217,
+      217
+    ],
+    "hsv": [
+      0,
+      0,
+      217
+    ],
+    "type": "milky"
+  },
+  "160": {
+    "colourID": 160,
+    "colourName": "Fabuland Orange",
+    "hex": "#EF9121",
+    "rgb": [
+      239,
+      145,
+      33
+    ],
+    "hsv": [
+      16,
+      220,
+      239
+    ],
+    "type": "solid"
+  },
+  "161": {
+    "colourID": 161,
+    "colourName": "Dark Yellow",
+    "hex": "#DD982E",
+    "rgb": [
+      221,
+      152,
+      46
+    ],
+    "hsv": [
+      18,
+      202,
+      221
+    ],
+    "type": "solid"
+  },
+  "162": {
+    "colourID": 162,
+    "colourName": "Glitter Trans-Light Blue",
+    "hex": "#68BCC5",
+    "rgb": [
+      104,
+      188,
+      197
+    ],
+    "hsv": [
+      93,
+      120,
+      197
+    ],
+    "type": "glitter"
+  },
+  "163": {
+    "colourID": 163,
+    "colourName": "Glitter Trans-Neon Green",
+    "hex": "#C0F500",
+    "rgb": [
+      192,
+      245,
+      0
+    ],
+    "hsv": [
+      37,
+      255,
+      245
+    ],
+    "type": "glitter"
+  },
+  "165": {
+    "colourID": 165,
+    "colourName": "Neon Orange",
+    "hex": "#FA5947",
+    "rgb": [
+      250,
+      89,
+      71
+    ],
+    "hsv": [
+      3,
+      183,
+      250
+    ],
+    "type": "solid"
+  },
+  "166": {
+    "colourID": 166,
+    "colourName": "Neon Green",
+    "hex": "#DBF355",
+    "rgb": [
+      219,
+      243,
+      85
+    ],
+    "hsv": [
+      35,
+      166,
+      243
+    ],
+    "type": "solid"
+  },
+  "167": {
+    "colourID": 167,
+    "colourName": "Reddish Orange",
+    "hex": "#FF5500",
+    "rgb": [
+      255,
+      85,
+      0
+    ],
+    "hsv": [
+      10,
+      255,
+      255
+    ],
+    "type": "solid"
+  },
+  "168": {
+    "colourID": 168,
+    "colourName": "Umber",
+    "hex": "#735442",
+    "rgb": [
+      115,
+      84,
+      66
+    ],
+    "hsv": [
+      11,
+      109,
+      115
+    ],
+    "type": "solid"
+  },
+  "169": {
+    "colourID": 169,
+    "colourName": "Sienna",
+    "hex": "#EA8339",
+    "rgb": [
+      234,
+      131,
+      57
+    ],
+    "hsv": [
+      13,
+      193,
+      234
+    ],
+    "type": "solid"
+  },
+  "170": {
+    "colourID": 170,
+    "colourName": "Satin Trans-Yellow",
+    "hex": "#EBF72D",
+    "rgb": [
+      235,
+      247,
+      45
+    ],
+    "hsv": [
+      32,
+      209,
+      247
+    ],
+    "type": "satin"
+  },
+  "171": {
+    "colourID": 171,
+    "colourName": "Lemon",
+    "hex": "#EDDC44",
+    "rgb": [
+      237,
+      220,
+      68
+    ],
+    "hsv": [
+      27,
+      182,
+      237
+    ],
+    "type": "solid"
+  },
+  "172": {
+    "colourID": 172,
+    "colourName": "Warm Yellowish Orange",
+    "hex": "#FFD788",
+    "rgb": [
+      255,
+      215,
+      136
+    ],
+    "hsv": [
+      20,
+      119,
+      255
+    ],
+    "type": "solid"
+  },
+  "173": {
+    "colourID": 173,
+    "colourName": "Ochre Yellow",
+    "hex": "#D89905",
+    "rgb": [
+      216,
+      153,
+      5
+    ],
+    "hsv": [
+      21,
+      249,
+      216
+    ],
+    "type": "solid"
+  },
+  "210": {
+    "colourID": 210,
+    "colourName": "Mx Foil Dark Gray",
+    "hex": "#595D60",
+    "rgb": [
+      89,
+      93,
+      96
+    ],
+    "hsv": [
+      103,
+      19,
+      96
+    ],
+    "type": "modulex"
+  },
+  "211": {
+    "colourID": 211,
+    "colourName": "Mx Foil Light Gray",
+    "hex": "#9C9C9C",
+    "rgb": [
+      156,
+      156,
+      156
+    ],
+    "hsv": [
+      0,
+      0,
+      156
+    ],
+    "type": "modulex"
+  },
+  "212": {
+    "colourID": 212,
+    "colourName": "Mx Foil Dark Green",
+    "hex": "#006400",
+    "rgb": [
+      0,
+      100,
+      0
+    ],
+    "hsv": [
+      60,
+      255,
+      100
+    ],
+    "type": "modulex"
+  },
+  "213": {
+    "colourID": 213,
+    "colourName": "Mx Foil Light Green",
+    "hex": "#7DB538",
+    "rgb": [
+      125,
+      181,
+      56
+    ],
+    "hsv": [
+      43,
+      176,
+      181
+    ],
+    "type": "modulex"
+  },
+  "214": {
+    "colourID": 214,
+    "colourName": "Mx Foil Dark Blue",
+    "hex": "#0057A6",
+    "rgb": [
+      0,
+      87,
+      166
+    ],
+    "hsv": [
+      104,
+      255,
+      166
+    ],
+    "type": "modulex"
+  },
+  "215": {
+    "colourID": 215,
+    "colourName": "Mx Foil Light Blue",
+    "hex": "#68AECE",
+    "rgb": [
+      104,
+      174,
+      206
+    ],
+    "hsv": [
+      99,
+      126,
+      206
+    ],
+    "type": "modulex"
+  },
+  "216": {
+    "colourID": 216,
+    "colourName": "Mx Foil Violet",
+    "hex": "#4B0082",
+    "rgb": [
+      75,
+      0,
+      130
+    ],
+    "hsv": [
+      137,
+      255,
+      130
+    ],
+    "type": "modulex"
+  },
+  "217": {
+    "colourID": 217,
+    "colourName": "Mx Foil Red",
+    "hex": "#8B0000",
+    "rgb": [
+      139,
+      0,
+      0
+    ],
+    "hsv": [
+      0,
+      255,
+      139
+    ],
+    "type": "modulex"
+  },
+  "218": {
+    "colourID": 218,
+    "colourName": "Mx Foil Yellow",
+    "hex": "#FED557",
+    "rgb": [
+      254,
+      213,
+      87
+    ],
+    "hsv": [
+      23,
+      168,
+      254
+    ],
+    "type": "modulex"
+  },
+  "219": {
+    "colourID": 219,
+    "colourName": "Mx Foil Orange",
+    "hex": "#F7AD63",
+    "rgb": [
+      247,
+      173,
+      99
+    ],
+    "hsv": [
+      15,
+      153,
+      247
+    ],
+    "type": "modulex"
+  },
+  "220": {
+    "colourID": 220,
+    "colourName": "Coral",
+    "hex": "#FF8172",
+    "rgb": [
+      255,
+      129,
+      114
+    ],
+    "hsv": [
+      3,
+      141,
+      255
+    ],
+    "type": "solid"
+  },
+  "222": {
+    "colourID": 222,
+    "colourName": "Glitter Trans-Orange",
+    "hex": "#D04010",
+    "rgb": [
+      208,
+      64,
+      16
+    ],
+    "hsv": [
+      8,
+      235,
+      208
+    ],
+    "type": "glitter"
+  },
+  "223": {
+    "colourID": 223,
+    "colourName": "Satin Trans-Light Blue",
+    "hex": "#68BCC5",
+    "rgb": [
+      104,
+      188,
+      197
+    ],
+    "hsv": [
+      93,
+      120,
+      197
+    ],
+    "type": "satin"
+  },
+  "224": {
+    "colourID": 224,
+    "colourName": "Satin Trans-Dark Pink",
+    "hex": "#CE1d9b",
+    "rgb": [
+      206,
+      29,
+      155
+    ],
+    "hsv": [
+      159,
+      219,
+      206
+    ],
+    "type": "satin"
+  },
+  "225": {
+    "colourID": 225,
+    "colourName": "Dark Nougat",
+    "hex": "#CE7942",
+    "rgb": [
+      206,
+      121,
+      66
+    ],
+    "hsv": [
+      12,
+      173,
+      206
+    ],
+    "type": "solid"
+  },
+  "227": {
+    "colourID": 227,
+    "colourName": "Clikits Lavender",
+    "hex": "#E0AAD9",
+    "rgb": [
+      224,
+      170,
+      217
+    ],
+    "hsv": [
+      154,
+      61,
+      224
+    ],
+    "type": "solid"
+  },
+  "228": {
+    "colourID": 228,
+    "colourName": "Satin Trans-Clear",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "hsv": [
+      0,
+      0,
+      255
+    ],
+    "type": "satin"
+  },
+  "229": {
+    "colourID": 229,
+    "colourName": "Satin Trans-Brown",
+    "hex": "#939484",
+    "rgb": [
+      147,
+      148,
+      132
+    ],
+    "hsv": [
+      32,
+      28,
+      148
+    ],
+    "type": "satin"
+  },
+  "230": {
+    "colourID": 230,
+    "colourName": "Satin Trans-Purple",
+    "hex": "#8320B7",
+    "rgb": [
+      131,
+      32,
+      183
+    ],
+    "hsv": [
+      140,
+      210,
+      183
+    ],
+    "type": "satin"
+  },
+  "231": {
+    "colourID": 231,
+    "colourName": "Dark Salmon",
+    "hex": "#FF6326",
+    "rgb": [
+      255,
+      99,
+      38
+    ],
+    "hsv": [
+      8,
+      217,
+      255
+    ],
+    "type": "solid"
+  },
+  "232": {
+    "colourID": 232,
+    "colourName": "Satin Trans-Dark Blue",
+    "hex": "#1552e2",
+    "rgb": [
+      21,
+      82,
+      226
+    ],
+    "hsv": [
+      111,
+      231,
+      226
+    ],
+    "type": "satin"
+  },
+  "233": {
+    "colourID": 233,
+    "colourName": "Satin Trans-Bright Green",
+    "hex": "#7fe15b",
+    "rgb": [
+      127,
+      225,
+      91
+    ],
+    "hsv": [
+      52,
+      152,
+      225
+    ],
+    "type": "satin"
+  },
+  "235": {
+    "colourID": 235,
+    "colourName": "Reddish Gold",
+    "hex": "#E7891B",
+    "rgb": [
+      231,
+      137,
+      27
+    ],
+    "hsv": [
+      16,
+      225,
+      231
+    ],
+    "type": "pearl"
+  },
+  "236": {
+    "colourID": 236,
+    "colourName": "Neon Yellow",
+    "hex": "#FFFC00",
+    "rgb": [
+      255,
+      252,
+      0
+    ],
+    "hsv": [
+      30,
+      255,
+      255
+    ],
+    "type": "solid"
+  },
+  "237": {
+    "colourID": 237,
+    "colourName": "Bionicle Copper",
+    "hex": "#985750",
+    "rgb": [
+      152,
+      87,
+      80
+    ],
+    "hsv": [
+      3,
+      121,
+      152
+    ],
+    "type": "pearl"
+  },
+  "238": {
+    "colourID": 238,
+    "colourName": "Bionicle Gold",
+    "hex": "#B9752F",
+    "rgb": [
+      185,
+      117,
+      47
+    ],
+    "hsv": [
+      15,
+      190,
+      185
+    ],
+    "type": "pearl"
+  },
+  "239": {
+    "colourID": 239,
+    "colourName": "Bionicle Silver",
+    "hex": "#A59287",
+    "rgb": [
+      165,
+      146,
+      135
+    ],
+    "hsv": [
+      11,
+      46,
+      165
+    ],
+    "type": "pearl"
+  },
+  "240": {
+    "colourID": 240,
+    "colourName": "Medium Brown",
+    "hex": "#A16C42",
+    "rgb": [
+      161,
+      108,
+      66
+    ],
+    "hsv": [
+      13,
+      150,
+      161
+    ],
+    "type": "solid"
+  },
+  "241": {
+    "colourID": 241,
+    "colourName": "Medium Tan",
+    "hex": "#FBC685",
+    "rgb": [
+      251,
+      198,
+      133
+    ],
+    "hsv": [
+      17,
+      120,
+      251
+    ],
+    "type": "solid"
+  },
+  "242": {
+    "colourID": 242,
+    "colourName": "Dark Olive Green",
+    "hex": "#76753F",
+    "rgb": [
+      118,
+      117,
+      63
+    ],
+    "hsv": [
+      29,
+      119,
+      118
+    ],
+    "type": "solid"
+  },
+  "243": {
+    "colourID": 243,
+    "colourName": "Pearl Sand Purple",
+    "hex": "#B5A1BA",
+    "rgb": [
+      181,
+      161,
+      186
+    ],
+    "hsv": [
+      144,
+      34,
+      186
+    ],
+    "type": "pearl"
+  },
+  "244": {
+    "colourID": 244,
+    "colourName": "Pearl Black",
+    "hex": "#282725",
+    "rgb": [
+      40,
+      39,
+      37
+    ],
+    "hsv": [
+      20,
+      19,
+      40
+    ],
+    "type": "pearl"
+  },
+  "245": {
+    "colourID": 245,
+    "colourName": "Lilac",
+    "hex": "#7862CE",
+    "rgb": [
+      120,
+      98,
+      206
+    ],
+    "hsv": [
+      126,
+      134,
+      206
+    ],
+    "type": "solid"
+  },
+  "246": {
+    "colourID": 246,
+    "colourName": "Light Lilac",
+    "hex": "#CDCCEE",
+    "rgb": [
+      205,
+      204,
+      238
+    ],
+    "hsv": [
+      121,
+      36,
+      238
+    ],
+    "type": "solid"
+  },
+  "247": {
+    "colourID": 247,
+    "colourName": "Little Robots Blue",
+    "hex": "#5DBFE4",
+    "rgb": [
+      93,
+      191,
+      228
+    ],
+    "hsv": [
+      98,
+      151,
+      228
+    ],
+    "type": "solid"
+  },
+  "248": {
+    "colourID": 248,
+    "colourName": "Fabuland Lime",
+    "hex": "#ADD237",
+    "rgb": [
+      173,
+      210,
+      55
+    ],
+    "hsv": [
+      37,
+      188,
+      210
+    ],
+    "type": "solid"
+  },
+  "249": {
+    "colourID": 249,
+    "colourName": "Reddish Copper",
+    "hex": "#D06926",
+    "rgb": [
+      208,
+      105,
+      38
+    ],
+    "hsv": [
+      12,
+      208,
+      208
+    ],
+    "type": "pearl"
+  },
+  "250": {
+    "colourID": 250,
+    "colourName": "Metallic Copper",
+    "hex": "#C58259",
+    "rgb": [
+      197,
+      130,
+      89
+    ],
+    "hsv": [
+      11,
+      140,
+      197
+    ],
+    "type": "metallic"
+  },
+  "252": {
+    "colourID": 252,
+    "colourName": "Pearl Red",
+    "hex": "#E54952",
+    "rgb": [
+      229,
+      73,
+      82
+    ],
+    "hsv": [
+      178,
+      174,
+      229
+    ],
+    "type": "pearl"
+  },
+  "253": {
+    "colourID": 253,
+    "colourName": "Pearl Green",
+    "hex": "#13A452",
+    "rgb": [
+      19,
+      164,
+      82
+    ],
+    "hsv": [
+      73,
+      225,
+      164
+    ],
+    "type": "pearl"
+  },
+  "254": {
+    "colourID": 254,
+    "colourName": "Pearl Blue",
+    "hex": "#3977C7",
+    "rgb": [
+      57,
+      119,
+      199
+    ],
+    "hsv": [
+      107,
+      182,
+      199
+    ],
+    "type": "pearl"
+  },
+  "255": {
+    "colourID": 255,
+    "colourName": "Pearl Brown",
+    "hex": "#815542",
+    "rgb": [
+      129,
+      85,
+      66
+    ],
+    "hsv": [
+      9,
+      125,
+      129
+    ],
+    "type": "pearl"
+  }
+}
