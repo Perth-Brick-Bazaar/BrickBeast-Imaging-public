@@ -1,0 +1,5 @@
+# Ignore color array JSON files
+*color-array*.json
+
+# Ignore all BrickStore files
+*.bsx
